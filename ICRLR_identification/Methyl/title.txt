@@ -1,0 +1,1 @@
+#Chrom	Start	End	Name	Oocyte	Sperm	2cell.GG	2cell.AG	Morula.GG	Morula.AG	ICM.GG	ICM.AG	TE.GG	TE.AG
